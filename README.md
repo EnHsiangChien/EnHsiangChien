@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Eric De Lucas
+# 👨 EnHsiang Chien
 
 My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I completed high school at FECAP, with a technical course in Artificial Intelligence.I am currently studying Computer Science at FECAP.
 
