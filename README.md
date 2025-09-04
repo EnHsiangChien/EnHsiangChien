@@ -83,3 +83,7 @@ My name is EnHsiang Chien, I am 22 years old and I am from São Paulo .I am curr
     height="300" 
     alt="Activity Graph" 
 />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EnHsiang%20Chien&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+
+
+
